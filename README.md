@@ -1,3 +1,2 @@
 # pingpong
-my pingpong-game in c++
-its very cool :)
+I made the game myself, in C++ with the SDL2 library :)
